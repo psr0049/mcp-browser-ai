@@ -31,9 +31,9 @@
       "command": "npx",
       "args": ["@browserbasehq/mcp"],
       "env": {
-        "BROWSERBASE_API_KEY": "bb_live_LZAV2LDuLqaj4EVAdE6FBufzXTU",
-        "BROWSERBASE_PROJECT_ID": "b19c6a46-3132-4b9f-9d06-07fefdb565ec",
-        "GEMINI_API_KEY": "AIzaSyBMsx5gxpulYYjJfoL3bejVoY2ueVVykjY"
+        "BROWSERBASE_API_KEY": "your_browserbase_api_key_here",
+        "BROWSERBASE_PROJECT_ID": "your_browserbase_project_id_here",
+        "GEMINI_API_KEY": "your_gemini_api_key_here"
       }
     }
   }
@@ -112,9 +112,9 @@ You can add additional flags to the Browserbase configuration:
         "--browserHeight", "1080"
       ],
       "env": {
-        "BROWSERBASE_API_KEY": "bb_live_LZAV2LDuLqaj4EVAdE6FBufzXTU",
-        "BROWSERBASE_PROJECT_ID": "b19c6a46-3132-4b9f-9d06-07fefdb565ec",
-        "GEMINI_API_KEY": "AIzaSyBMsx5gxpulYYjJfoL3bejVoY2ueVVykjY"
+        "BROWSERBASE_API_KEY": "your_browserbase_api_key_here",
+        "BROWSERBASE_PROJECT_ID": "your_browserbase_project_id_here",
+        "GEMINI_API_KEY": "your_gemini_api_key_here"
       }
     }
   }
